@@ -1,1 +1,6 @@
 test de Git
+
+modification étape 1
+
+C'est pratique
+Nouvelles lignes ajoutée
